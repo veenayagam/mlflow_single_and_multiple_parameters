@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Veenayagam_Things/Git/Git_demo/sample/mlruns/0/3805c067b5314d6e8769a3ac8e7f3379/artifacts
+end_time: 1631517131736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 3805c067b5314d6e8769a3ac8e7f3379
+run_uuid: 3805c067b5314d6e8769a3ac8e7f3379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1631517126984
+status: 3
+tags: []
+user_id: Darknman
