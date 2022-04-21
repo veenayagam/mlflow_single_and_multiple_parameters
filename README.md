@@ -1,4 +1,4 @@
-# Visualize linear regression model single and multiple parameters using MLflow
+# Code frameworks for linear regression model single parameters and multiple parameters using MLflow
 ### This code based on https://www.mlflow.org/docs/latest/tutorials-and-examples/tutorial.html
 ## Code and Resources Used
 **Python Version:** 3.9  
