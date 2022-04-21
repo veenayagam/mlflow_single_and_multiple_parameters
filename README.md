@@ -180,5 +180,3 @@
                     else:
                         mlflow.sklearn.log_model(lr, "model")
 
-## Visualize by comparing multiple parameters
-![mlflow_multple_parameters](https://user-images.githubusercontent.com/72549846/133045135-7aa682aa-99db-4bd2-8b2f-a042922aed65.png)
